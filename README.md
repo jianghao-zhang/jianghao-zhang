@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jianghao-zhang
-- 👀 I’m interested in Computer Vision, Deep Learning, and Computation-Eﬀicient Learning.
+- 👀 I’m interested in Machine Learning, graph mining and Neuromophic Computing.
 - 📫 How to reach me: Jianghao.Zhang@outlook.com
 
 <!---
