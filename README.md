@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jianghao-zhang
-- 👀 I’m interested in Machine Learning, graph mining and Neuromophic Computing.
+- 👀 I’m interested in Machine Learning, **Graph Mining** and Neuromophic Computing.
 - 📫 How to reach me: Jianghao.Zhang@outlook.com
 
 <!---
